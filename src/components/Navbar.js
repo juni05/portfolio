@@ -5,14 +5,10 @@ import Container from "react-bootstrap/Container";
 import initials from "../Assets/initials.png";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
-import { CgGitFork } from "react-icons/cg";
-import { ImBlog } from "react-icons/im";
 import {
-  AiFillStar,
   AiOutlineGithub,
   AiOutlineHome,
-  AiOutlineFundProjectionScreen,
-  AiOutlineUser,
+  AiOutlineFundProjectionScreen
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
